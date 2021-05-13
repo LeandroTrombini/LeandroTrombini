@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, NODE, SQL
+- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, NODE, SQL, Nextjs
 - 📫 How to reach me: leandro.ae@gmail.com
 - ⚡ Fun fact: I`m a musician
 
