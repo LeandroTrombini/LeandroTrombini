@@ -8,12 +8,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>
 </p>
 
 
 
 
-- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, NODE, SQL, Nextjs
+- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, NODE, SQL, Express, Nextjs
 - 📫 How to reach me: leandro.ae@gmail.com
 - ⚡ Fun fact: I`m a musician
 
