@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, Typescript, NODE, SQL, Express, Nextjs, Ruby, Ruby On Rails, VTEX-IO, Git...
+- 🌱 I’m currently learning Ruby, Ruby On Rails, JAVASCRIPT, HTML, CSS, VueJs, REACT, Typescript, NODE, SQL, Express, Nextjs, VTEX-IO, Git...
 - 📫 How to reach me: leandro.ae@gmail.com
-- ⚡ Fun fact: I`m a musician
+- ⚡ Fun fact: I`m a musician too
 
